@@ -1,7 +1,13 @@
-For doing the Text Analysis, a text or an article(to be analysed) is to be selected.
-The selected Article should be converted into various sections according to the meaning.
-The meanings of each sentence should be noted.
-Sentences with similar meanings will form a section.
-In this way, the whole article or text get sectionised.
-Each section will be analysed using any qualitative analysis.
-For instance, Discourse Analysis will be applied on each section.
+1.For doing the Text Analysis, a text or an article(to be analysed) is to be selected.
+2.The selected Article should be converted into various sections according to the meaning.
+3.The meanings of each sentence should be noted.
+3.1 For meanings, parts of speech need to be looked upon.
+3.2 Here, Nouns and verbs are to be focused.
+3.3 Tools like Amazon Comprehend can be used to reduce human bias and alternate to manual process.
+3.3.1 This tool helps to classify each word as different parts of speech.
+3.4 So, all nouns and verbs can be listed out.
+3.5 Built a relation between nouns and verbs to get a meaning of the sentences.
+4.Sentences with similar meanings will form a section.
+5.In this way, the whole article or text get sectionised.
+6.Each section will be analysed using any qualitative analysis.
+7.For instance, Discourse Analysis will be applied on each section.
