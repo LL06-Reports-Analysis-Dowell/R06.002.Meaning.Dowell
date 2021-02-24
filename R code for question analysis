@@ -1,3 +1,5 @@
+#the following is the R code for determining the word's type and then posting the question.
+
 install.packages("udpipe") # This is the package required for determinig whether the word is a noun or not
 
 library(udpipe) # loading the package
